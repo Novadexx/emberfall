@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "EMBERFALL Phase 0 combat prototype",
+  "Modules": [
+    {
+      "Name": "Emberfall",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "TargetPlatforms": [
+    "Windows"
+  ]
+}
